@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: a comparison of the goals, timetable, and organization
   of the U.S. occupations of Japan and Iraq.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-948-the-politics-of-reconstructing-iraq-spring-2005/dd1c8a46bb77fad0ac40f1610480ac2e_kwack_final.pdf
+file: /media/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/dd1c8a46bb77fad0ac40f1610480ac2e_kwack_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'U.S. Occupation in Iraq and Japan: A Brief Comparison'
 uid: dd1c8a46-bb77-fad0-ac40-f1610480ac2e

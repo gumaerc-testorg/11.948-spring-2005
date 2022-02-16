@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on reconstruction projects in Iraq, foreign involvement,
   funding, and legalities.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-948-the-politics-of-reconstructing-iraq-spring-2005/1b0df3972ab334dde0aa917f55487038_lect7.pdf
+file: /media/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/1b0df3972ab334dde0aa917f55487038_lect7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The U.S. Reconstruction Agenda and Projects in Iraq
 uid: 1b0df397-2ab3-34dd-e0aa-917f55487038
