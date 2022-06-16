@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture notes and handouts for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -45,7 +46,7 @@ L2
 Planning, Politics and the Idea of Post-Conflict Reconstruction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect2))  
+({{% resource_link a0b55136-8c70-f1bd-f62f-3d90a0e2baf2 "PDF" %}})  
   
 _Planning, Politics and the Idea of Post-Conflict Reconstruction_  
   
@@ -87,7 +88,7 @@ L3
 International Experience: Marshall Plan, the Reconstruction of Japan, and Bosnia and Herzegovina
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect3))  
+({{% resource_link 90c56ece-70f7-dd96-d642-081e80a18568 "PDF" %}})  
   
 _Stakeholders and Strategies in Historical Context_  
   
@@ -103,7 +104,7 @@ L4
 The U.S. Post-September 11 Reconstruction Agenda
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect4))  
+({{% resource_link fc391e85-9e44-ac83-d33d-844c12830e70 "PDF" %}})  
   
 _Stakeholders and Strategies in Historical Context cont._ 
 {{< tdclose >}}
@@ -135,7 +136,7 @@ L5
 Social and Political Background for Reconstruction: Politics and Society in Iraq in the 20-21st Century
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect5))  
+({{% resource_link 15aa4a6b-dc37-12bf-c238-5be526aa1f14 "PDF" %}})  
   
 _Iraq Historical and Political Context_  
   
@@ -185,7 +186,7 @@ L7
 The U.S. Reconstruction Agenda and Projects in Iraq
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect7))  
+({{% resource_link 1b0df397-2ab3-34dd-e0aa-917f55487038 "PDF" %}})  
   
 _Foreign Involvement, Funding and Legalities_  
   

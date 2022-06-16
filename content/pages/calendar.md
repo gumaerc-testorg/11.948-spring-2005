@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course lectures and colloquium
+  sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
