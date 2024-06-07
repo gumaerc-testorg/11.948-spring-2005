@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Example of student work: a presentation on education in Iraq.'
 file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/8bd9b14ed0b4d836af653a2022cd800f_ikert_final.pdf
+file_size: 565943
 file_type: application/pdf
 learning_resource_types:
 - Projects
