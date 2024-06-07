@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: a comparison of the goals, timetable, and organization
   of the U.S. occupations of Japan and Iraq.'
 file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/dd1c8a46bb77fad0ac40f1610480ac2e_kwack_final.pdf
+file_size: 465997
 file_type: application/pdf
 learning_resource_types:
 - Projects

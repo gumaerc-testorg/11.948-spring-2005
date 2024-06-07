@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on post-conflict reconstruction.
 file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/a0b551368c70f1bdf62f3d90a0e2baf2_lect2.pdf
+file_size: 513668
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

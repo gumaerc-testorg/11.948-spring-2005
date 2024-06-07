@@ -6,6 +6,7 @@ description: 'Example of student work: Discussion of the American media presence
   attempt to manage flows of information out of Iraq; Iraqi civilian death tolls,
   physical threats to the media; self censorship and headlines.'
 file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/4c6ce7ec7aec3ea6718200b9e678514a_marraccini_final.pdf
+file_size: 498825
 file_type: application/pdf
 learning_resource_types:
 - Projects
