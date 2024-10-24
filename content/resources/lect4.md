@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on stakeholders in a major national reconstruction
   process and the politics of reconstructing Iraq.
-file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/fc391e859e44ac83d33d844c12830e70_lect4.pdf
+file: /ol-ocw-studio-app/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/fc391e859e44ac83d33d844c12830e70_lect4.pdf
 file_size: 169159
 file_type: application/pdf
 learning_resource_types:
