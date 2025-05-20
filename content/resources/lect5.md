@@ -12,7 +12,7 @@ description: This lecture provides a brief overview of the political history of 
   the 1950s the World Bank planned Iraq's economy to be based on agricultural production,
   but what Iraq needs is a vision that first meets basic needs and then surpasses
   this initial provision.
-file: /ol-ocw-studio-app/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/15aa4a6bdc3712bfc2385be526aa1f14_lect5.pdf
+file: /courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/15aa4a6bdc3712bfc2385be526aa1f14_lect5.pdf
 file_size: 431348
 file_type: application/pdf
 learning_resource_types:
