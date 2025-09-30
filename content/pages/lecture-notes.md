@@ -76,7 +76,7 @@ Charles N. Patterson: Consultant and founder of Global  Communications
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 248 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-14feb2005-220k.mp4))
+({{% resource_link "89fd6d61-c633-4690-a0df-b11ced7dacc3" "MP4 - 248 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Sami Zubaida: Professor of Politics and Sociology, Birkbeck University of London
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 173 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-01mar2005-220k.mp4))
+({{% resource_link "d2ab9cec-8dc7-46ae-a808-f7a1251638ed" "MP4 - 173 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Charles S. Maier: Professor of History at Harvard University
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 267 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-07mar2005-220k.mp4))
+({{% resource_link "299e5123-e533-4d71-a3df-f9f7d6a0dcc1" "MP4 - 267 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,14 +221,14 @@ C4
 
 Reconstructing 'a New Liberal Iraq'
 
-[Robert Looney](http://www.nps.edu/Academics/Schools/SIGS/DegreeProg/NSA/Faculty/looney.html): Professor of National Security Affairs, [Naval Postgraduate School](http://www.nps.edu/academics/centers/ctiw/)
+{{% resource_link "db235837-b412-4f81-bfbb-4f11dad99fad" "Robert Looney" %}}: Professor of National Security Affairs, {{% resource_link "2375c0b0-e32f-4e94-8d30-f0209df778c4" "Naval Postgraduate School" %}}
 
 Kenneth Pollack: Director of Research, Saban Center for Middle East Policy
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 202 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-04apr2005-220k.mp4))
+({{% resource_link "e89099dc-341f-4a92-a7da-987989e73c87" "MP4 - 202 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +262,7 @@ Kanan Makiya
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 233 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-11apr2005-220k.mp4))
+({{% resource_link "4ef894e9-26dc-4086-96d7-abab0a70bf94" "MP4 - 233 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +308,7 @@ Hafez Mirazi: Washington Bureau Chief for Al-Jazeera Television
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 173 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-rebuilding-iraq-25apr2005-220k.mp4))
+({{% resource_link "c5aa2867-dc61-4142-914a-0f340bde4138" "MP4 - 173 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ Balakrishnan Rajagopal: Professor, Director of MIT Program on Human Rights and J
 
 {{< tdclose >}}
 {{< tdopen >}}
-([MP4 - 108 MB](http://www.archive.org/download/MIT11.948S05/ocw-11.948-04may2005-220k.mp4))
+({{% resource_link "3c1f9933-6f6b-4ae8-906c-b54d8fdf1a4a" "MP4 - 108 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
