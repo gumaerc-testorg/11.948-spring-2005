@@ -49,13 +49,13 @@ Planning, Politics and the Idea of Post-Conflict Reconstruction
 
 Orr, Robert C., ed. _Winning the Peace: An American Strategy for Post-Conflict Reconstruction_. CSIS Significant Issues, No. 26. The CSIS Press, 2004. ISBN: 0892064447.
 
-The World Bank. _Post-Conflict Reconstruction: The Role of the World Bank_ ({{% resource_link "33ad6ab0-cf81-43fd-90c1-6401c5555114" "PDF - 4.2 MB" %}}). Washington, DC: 1998. ISBN: 0821342150.
+The World Bank. _Post-Conflict Reconstruction: The Role of the World Bank_ ([PDF - 4.2 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/1998/04/01/000009265_3980624143531/Rendered/PDF/multi_page.pdf)). Washington, DC: 1998. ISBN: 0821342150.
 
 Azimi, Nassrine, Matt Fuller, and Hiroko Nakayama, eds. _Post-Conflict Reconstruction in Japan, Republic of Korea, Vietnam, Cambodia, East Timor and Afghanistan_. Proceedings of an international conference in Hiroshima. New York, NY: UNITAR, 2003.
 
 Addison, Tony, ed. Chapters 1 and 2 in _From Conflict to Recovery in Africa_. New York, NY: Oxford University Press, 2003, pp. 1-29. ISBN: 0199261032.
 
-Michailof, Serge, Markus Kostner, Xavier Devictor, and Tony Addison. _Post-Conflict Recovery in Africa: An Agenda for the Africa Region_ ({{% resource_link "4d6ba7bb-401c-4f0c-a5ae-3c2c0b808902" "PDF" %}}). Africa Region Working Paper Series No. 30, 2002.
+Michailof, Serge, Markus Kostner, Xavier Devictor, and Tony Addison. _Post-Conflict Recovery in Africa: An Agenda for the Africa Region_ ([PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/853281468741672306/post-conflict-recovery-in-africa-an-agenda-for-the-africa-region)). Africa Region Working Paper Series No. 30, 2002.
 
 Vale, Lawrence J., and Thomas J. Campanella, eds. _The Resilient City: How Modern Cities Recover from Disaster_. New York, NY: Oxford University Press, 2005. ISBN: 0195175832.
 
@@ -81,7 +81,7 @@ Maier, Charles S., ed. _The Marshall Plan and Germany: West German Development w
 
 Hogan, Michael J. _The Marshall Plan: America, Britain, and the Reconstruction of Western Europe, 1947- 1952_. New York, NY: Cambridge University Press, 1987. ISBN: 0521378400.
 
-The World Bank. "OED - Operations Evaluation Department." In _Bosnia and Herzegovina: Post-Conflict reconstruction and the Transition to a Market Economy: an OED Evaluation of World Bank Support_ ({{% resource_link "5cb93541-b266-4b25-902c-081219b6d87c" "PDF" %}}). Washington, DC: 2004. ISBN: 0821359789.
+The World Bank. "OED - Operations Evaluation Department." In _Bosnia and Herzegovina: Post-Conflict reconstruction and the Transition to a Market Economy: an OED Evaluation of World Bank Support_ ([PDF](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2004/10/18/000090341_20041018134110/Rendered/PDF/302270PAPER0Bi1flict0reconstruction.pdf)). Washington, DC: 2004. ISBN: 0821359789.
 
 
 {{< tdclose >}}
@@ -97,17 +97,17 @@ The U.S. Post-September 11 Reconstruction Agenda
 {{< tdopen >}}
 
 
-Center for Strategic and International Studies, and the Association of the U.S. Army. _Play to Win: Final Report of the bi-partisan Commission on Post-Conflict Reconstruction_. U.S.A., 2003. ({{% resource_link "af926aaf-09e8-40a2-8398-346634c197d6" "PDF" %}})
+Center for Strategic and International Studies, and the Association of the U.S. Army. _Play to Win: Final Report of the bi-partisan Commission on Post-Conflict Reconstruction_. U.S.A., 2003. ([PDF](http://csis.org/files/media/csis/pubs/playtowin.pdf))
 
 Vaishnav, Milan. "Afghanistan: The Chimera of the 'Light Footprint'." In _Winning the Peace: An American Strategy for Post-Conflict Reconstruction_. CSIS Significant Issues, No. 26. Edited by Robert C. Orr. Washington, DC: The CSIS Press, 2004, pp. 244-262. ISBN: 0892064447.
 
 Orr, Robert C., ed. "An American Strategy for Post-Conflict Reconstruction." In _Winning the Peace: An American Strategy for Post-Conflict Reconstruction_. CSIS Significant Issues, No. 26. Washington, DC: The CSIS Press, 2004, pp. 169-192. ISBN: 0892064447.
 
-Fujimura, Manabu. _{{% resource_link "8eb3dc0a-5b67-4cc7-a11f-45efd47bc8d1" "Post-Conflict Reconstruction: the Afghan Economy" %}}_. Tokyo: Asian Development Bank Institute, 2004. ISBN: 4899740034.
+Fujimura, Manabu. _[Post-Conflict Reconstruction: the Afghan Economy](http://www.adb.org/publications/post-conflict-reconstruction-afghan-economy)_. Tokyo: Asian Development Bank Institute, 2004. ISBN: 4899740034.
 
-World Bank. {{% resource_link "921ff8f6-16e7-450a-878b-e7c1a94d6453" "Afghanistan World Bank Approach Paper" %}}. 2001.
+World Bank. [Afghanistan World Bank Approach Paper](https://reliefweb.int/report/afghanistan/afghanistan-world-bank-approach-paper-nov-2001). 2001.
 
-Hanlon, Michael E. O. "{{% resource_link "fa8bbfeb-3fb7-441b-905f-4bfda351974e" "The Aid and Reconstruction Agenda for Afghanistan" %}}." Analysis Paper 13. _Policy Review_ (2001).
+Hanlon, Michael E. O. "[The Aid and Reconstruction Agenda for Afghanistan](https://www.brookings.edu/research/the-aid-and-reconstruction-agenda-for-afghanistan/)." Analysis Paper 13. _Policy Review_ (2001).
 
 
 {{< tdclose >}}
@@ -147,9 +147,9 @@ Post-war Planning: Visioning 'A new Iraq' and 'A New Middle East'
 {{< tdopen >}}
 
 
-Dodge, Toby, and Richard Higgott, eds. {{% resource_link "7921dfc5-acf6-459d-823f-318ae315a855" "_Globalization and the Middle East: Islam, Economy, Society, and Politics_" %}}. Washington, DC: Brookings Institution Press, 2002. ISBN: 1862031347.
+Dodge, Toby, and Richard Higgott, eds. [_Globalization and the Middle East: Islam, Economy, Society, and Politics_](https://www.amazon.com/Globalization-Middle-East-Economy-Politics/dp/1862031347). Washington, DC: Brookings Institution Press, 2002. ISBN: 1862031347.
 
-Katzman, Kenneth. "{{% resource_link "48386969-d4d8-47ee-b8f7-b675875bf2b6" "Iraq's Opposition Movements" %}}." CRS Report for Congress. June 27, 2000.
+Katzman, Kenneth. "[Iraq's Opposition Movements](https://www.everycrsreport.com/reports/98-179.html)." CRS Report for Congress. June 27, 2000.
 
 
 {{< tdclose >}}
@@ -167,17 +167,17 @@ The U.S. Reconstruction Agenda and Projects in Iraq
 
 Halchin, L. Elaine. "The Coalition Provisional Authority (CPA): Origin, Characteristics, and Institutional Authorities." CRS Report for Congress. April 29, 2004.
 
-Waterhouse, Michael, and Carolyn C. Smith. "Iraq Reconstruction Resources: Fact Sheet ({{% resource_link "3a33997d-27a4-47fb-80a6-be949a228ef8" "PDF" %}})." CRS Report for Congress. September 24, 2003.
+Waterhouse, Michael, and Carolyn C. Smith. "Iraq Reconstruction Resources: Fact Sheet ([PDF](http://fpc.state.gov/documents/organization/25391.pdf))." CRS Report for Congress. September 24, 2003.
 
-Hanlon, Michael E. O. "{{% resource_link "97e5ef48-6c40-420f-aa2e-bde6a1eb0657" "Iraq without a Plan" %}}." _Policy Review_ (January, 2005).
+Hanlon, Michael E. O. "[Iraq without a Plan](http://www.mafhoum.com/press7/219P3.htm)." _Policy Review_ (January, 2005).
 
 Copson, Raymond W. "Iraq War? Current Situation and Issues for Congress." CRS Report for Congress. Updated February 12, 2003.
 
-———. "Iraq War: Background and Issues Overview ({{% resource_link "4a8e0921-67c1-45bd-b4dc-8b109435e5c6" "PDF" %}})." CRS Report for Congress. Updated April 22, 2003.
+———. "Iraq War: Background and Issues Overview ([PDF](https://www.everycrsreport.com/reports/RL31715.html))." CRS Report for Congress. Updated April 22, 2003.
 
 ———. "Iraq: Recent Developments in Reconstruction Assistance." CRS Report for Congress. Updated April 22, 2003.
 
-Cordesman, Anthony H. "Nation Building in Iraq: A Status Report." Center for Strategic and International Studies, 2004. ({{% resource_link "67eb4605-57ee-4eeb-9660-b2eb42bc6a0d" "PDF" %}})
+Cordesman, Anthony H. "Nation Building in Iraq: A Status Report." Center for Strategic and International Studies, 2004. ([PDF](http://csis.org/files/media/csis/pubs/iraq_nationbuildingnews.pdf))
 
 
 {{< tdclose >}}
@@ -221,7 +221,7 @@ Anderson, Liam, and Gareth Stansfield. "The Democracy Dilemma." Chapter 8 in _Th
 
 Kovsted, Jens, and Finn Tarp. "Reconstruction, Reform, and State Capacity in Guinea-Bissau." In _From Conflict to Recovery in Africa_. Edited by Tony Addison. New York, NY: Oxford University Press, 2003, pp. 206-227. ISBN: 0199261032.
 
-Katzman, Kenneth. "Iraq: U.S. Regime Change Efforts and Post-Saddam Governance ({{% resource_link "b9af6493-33f8-43e8-8747-6bfce84bff81" "PDF" %}})." CRS Report for Congress. October 22, 2004.
+Katzman, Kenneth. "Iraq: U.S. Regime Change Efforts and Post-Saddam Governance ([PDF](http://fpc.state.gov/documents/organization/38004.pdf))." CRS Report for Congress. October 22, 2004.
 
 Rajagopal, Balakrishnan. "From Modernization to Democratization: The Political Economy of the "New" International Law." In _Reframing the International: Law, Culture, Politics_ . Edited by Richard Falk, Lester Edwin J. Ruiz, and R. B. J Welker. New York, NY: Routledge, 2002, pp. 137-162. ISBN: 0415931762.
 
@@ -241,9 +241,9 @@ The Role of International Organization in Post-Conflict Reconstructing
 {{< tdopen >}}
 
 
-"Post-Conflict Reconstruction: The Role of the World Bank for Reconstruction ({{% resource_link "33ad6ab0-cf81-43fd-90c1-6401c5555114" "PDF - 4.2 MB" %}})." Washington, DC: 1998. ISBN: 0821342150.
+"Post-Conflict Reconstruction: The Role of the World Bank for Reconstruction ([PDF - 4.2 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/1998/04/01/000009265_3980624143531/Rendered/PDF/multi_page.pdf))." Washington, DC: 1998. ISBN: 0821342150.
 
-Coipuram, Tom. "Iraq: United Nations and Humanitarian Aid Organizations ({{% resource_link "8ba4a277-7297-4a0d-b703-e159225590bc" "PDF" %}})." Report for Congress. March 1, 2003. April 2003 updated version.
+Coipuram, Tom. "Iraq: United Nations and Humanitarian Aid Organizations ([PDF](http://fpc.state.gov/documents/organization/19953.pdf))." Report for Congress. March 1, 2003. April 2003 updated version.
 
 
 {{< tdclose >}}
@@ -281,7 +281,7 @@ Conclusions and Critiques: Planning and Reconstruction; Vision and Realities; St
 
 Braude, Joseph. _The New Iraq: Rebuilding the Country for Its People, the Middle East, and the World_. New York, NY: Basic Books, 2003. ISBN: 0465007880.
 
-Cordesman, Anthony H. "Transnational Threats: The Emerging Strategic Lessons from the U.S. Intervention in Iraq." Center for Strategic and International Studies_,_ 2003. ({{% resource_link "86002286-2493-4247-b112-01277c1dd82d" "PDF" %}})
+Cordesman, Anthony H. "Transnational Threats: The Emerging Strategic Lessons from the U.S. Intervention in Iraq." Center for Strategic and International Studies_,_ 2003. ([PDF](http://csis.org/files/media/csis/pubs/iraq_transnationalthreats.pdf))
 
 _Recommended Movie_
 
@@ -301,11 +301,11 @@ Criticism
 {{< tdopen >}}
 
 
-Open Society Institute and the United Nations Foundation. _Iraq in Transition: Post-Conflict Challenges and Opportunities_ ({{% resource_link "78e882d5-abb2-4a15-bc35-6b402091e66e" "PDF" %}}). 2004.
+Open Society Institute and the United Nations Foundation. _Iraq in Transition: Post-Conflict Challenges and Opportunities_ ([PDF](https://www.opensocietyfoundations.org/uploads/fc3a1674-430c-45a9-a2b8-5891132b96fc/iraq_Transition.pdf)). 2004.
 
-Said, Edward. "{{% resource_link "08982423-8f6b-4a1b-be9d-860f5dee24fb" "Global Crisis Over Iraq: The Alternative United States" %}}." MIFTAH, March 20, 2003.
+Said, Edward. "[Global Crisis Over Iraq: The Alternative United States](http://www.miftah.org/Display.cfm?DocId=1876&CategoryId=5)." MIFTAH, March 20, 2003.
 
-———. "{{% resource_link "27fcc340-ca40-4c90-977f-c11cde4a6fec" "Orientalism 25 Years Later: Worldly Humanism v. the Empire-builders" %}}." In _Orientalism._ 25th Anniversary Edition. New York, NY: Vintage Books, 2003. ISBN: 039474067X.
+———. "[Orientalism 25 Years Later: Worldly Humanism v. the Empire-builders](http://www.counterpunch.org/2003/08/05/orientalism/)." In _Orientalism._ 25th Anniversary Edition. New York, NY: Vintage Books, 2003. ISBN: 039474067X.
 
 
 {{< tdclose >}}
